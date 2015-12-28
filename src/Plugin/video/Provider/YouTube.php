@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\video\Plugin\video\Provider\YouTube.
+ * Contains \Drupal\video_provider_youtube_example\Plugin\video\Provider\YouTube.
  */
 
-namespace Drupal\video\Plugin\video\Provider;
+namespace Drupal\video_provider_youtube_example\Plugin\video\Provider;
 
 use Drupal\video\ProviderPluginBase;
 
