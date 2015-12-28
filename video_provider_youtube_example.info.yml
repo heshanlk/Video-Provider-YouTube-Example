@@ -1,0 +1,7 @@
+name: Video Provider YouTube Example
+type: module
+description: A video provider.
+package: Video
+core: 8.x
+dependencies:
+  - video
