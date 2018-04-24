@@ -1,5 +1,5 @@
-services:
-  stream_wrapper.youtube:
-    class: Drupal\video\StreamWrapper\YoutubeStream
-    tags:
-      - { name: stream_wrapper, scheme: youtube }
+services: 
+  stream_wrapper.MY_TYPE: 
+    class: Drupal\MY_MODULE_NAME\StreamWrapper\MyTypeStream 
+    tags: 
+      - { name: stream_wrapper, scheme: MY_TYPE }
